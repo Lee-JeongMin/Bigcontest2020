@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-path= './bigcontest/dataset/BIGCON_DATA_ver1.2'
+path= './dataset/BIGCON_DATA_ver1.2'
 
 with open(path+'/CJ_DATA.bin', 'rb') as f:
     cj = pickle.load(f)
