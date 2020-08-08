@@ -1,7 +1,10 @@
 ###### ignore 폴더 및 파일
 dataset/
 */dataset/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 15e208da306fd5f13ac905506efa3f2edd01aa6b
 
 
 # Created by https://www.gitignore.io/api/venv,python,jupyternotebooks
